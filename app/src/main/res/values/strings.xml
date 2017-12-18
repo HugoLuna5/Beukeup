@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Beukeup</string>
+
+
+    <string name="facebook_app_id">426045061146689</string>
+    <string name="fb_login_protocol_scheme">fb426045061146689</string>
+    <string name="title_activity_navigation">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="enviar_mail">Enviar email</string>
+
+
+    <string name="description">
+        1.-Preparación de la piel:\n\nLa preparación de la piel es súper importante ya que influirá en si la piel está preparada o no para recibir el maquillaje que le coloquemos. Incluyendo una buena textura para un  mejor acabado.
+Entre estos pasos para maquillarse y preparar la piel vamos a encontrar que debemos limpiar el rostro con un tónico usar serum y o hidratante y una pre base de maquillaje.
+Todo esto mejorara la textura de nuestra piel haciendo que al final del proceso tengamos un maquillaje con un acabado más bonito.
+
+    </string>
+
+
+    <string name="about">
+        Aplicación móvil, donde podrás asesorarte en el
+        estilo perfecto para tu maquillaje en cualquier tipo de eveneto, al que asistas. Tambén podras realizar compras de productos en tus marcas preferidas
+    </string>
+
+    <string name="terms">
+
+Al descargar o utilizar la aplicación, aceptará automáticamente estos términos. Asegúrese de leerlos atentamente antes de utilizar la aplicación. Le ofrecemos esta aplicación para su uso personal sin ningún coste, pero debe saber que no está autorizado a enviársela a otra persona ni a copiar o modificar la aplicación, así como ninguna parte de esta, ni nuestras marcas comerciales de ningún modo. No deberá intentar extraer el código fuente de la aplicación, traducir la aplicación a otros idiomas ni crear versiones derivadas. La aplicación y todas las marcas comerciales, los derechos de autor, los derechos sobre bases de datos y demás derechos de propiedad intelectual relacionados continuarán siendo propiedad de BeuKeuP.
+\n\nBeuKeuP pretende garantizar que la aplicación sea siempre lo más útil y eficiente posible. Por este motivo, nos reservamos el derecho de efectuar cambios en la aplicación o de aplicar cargos por los servicios ofrecidos, en cualquier momento y por cualquier motivo. En ningún caso se aplicarán cargos por la aplicación o sus servicios sin notificar con claridad el motivo por el que debe realizar el abono.
+\n\nLa aplicación de BeuKeuP almacena y procesa los datos personales que nos has facilitado para que puedas elegir tu maquillaje ideal. Es tu responsabilidad mantener seguro tanto tu teléfono móvil como el acceso a tu aplicación. Por lo tanto, te recomendamos no liberar tu teléfono móvil para eliminar las restricciones y limitaciones impuestas por el sistema operativo oficial de tu dispositivo. Este proceso podría hacer que tu teléfono sea vulnerable a programas maliciosos, se comprometan las características de seguridad de tu teléfono móvil, así como no poder abrir la aplicación o que esta no funcione adecuadamente. Recuerde que, si utiliza la aplicación fuera de una zona con conexión Wi-Fi, se aplicarán los términos del contrato con su proveedor de servicios de red móvil. Por
+
+consiguiente, el proveedor de servicios móviles podrá aplicar cargos por los datos consumidos durante la conexión al acceder a la aplicación, así como otros cargos de terceros. Si utiliza la aplicación, acepta la responsabilidad en relación con dichos cargos, incluidos los cargos por los datos de roaming si utiliza la aplicación fuera del territorio de origen (su región o país) sin desactivar el roaming de datos. En caso de que no sea usted la persona encargada de pagar los recibos del dispositivo en el que utiliza la aplicación, nosotros asumiremos que ha recibido su
+
+permiso	para	utilizar	la	aplicación.\n\nNo obstante, usted garantiza que aceptará todas las actualizaciones de la aplicación cuando se le ofrezcan. También es posible que deje de ofrecerse la aplicación y se interrumpa su uso en cualquier momento sin previo aviso. A menos que se indique lo contrario, tras la terminación:\n\n(a)	cesarán los derechos y las licencias concedidos mediante los presentes términos;\n(b)	deberá suspender el uso de la aplicación y, si fuera necesario, eliminarla de su dispositivo.
+
+
+
+
+
+
+    </string>
+</resources>

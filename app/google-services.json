@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246989915862",
+    "firebase_url": "https://beukeup-bc82e.firebaseio.com",
+    "project_id": "beukeup-bc82e",
+    "storage_bucket": "beukeup-bc82e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246989915862:android:8c5b3494b40df9c3",
+        "android_client_info": {
+          "package_name": "lunainc.org.beukeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246989915862-kb5rf8ej4uq2cjlc3o7jiuumba21lrjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lunainc.org.beukeup",
+            "certificate_hash": "81d31be66dba978795a8f02f634a0763cc0e7c34"
+          }
+        },
+        {
+          "client_id": "246989915862-0jntcm5u2be9btv9r4uj8cero7h3o8us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FtdHBt1vHCdkrvbwaRBCp3OwPirngm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246989915862-0jntcm5u2be9btv9r4uj8cero7h3o8us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
